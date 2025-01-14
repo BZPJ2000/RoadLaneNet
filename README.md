@@ -2,7 +2,7 @@
 ## 🛠️ 安装
 1. 克隆项目到本地：
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/BZPJ2000/RoadLaneNet
    ```
 2. 安装依赖项：
    ```bash
