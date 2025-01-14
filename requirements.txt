@@ -1,0 +1,11 @@
+scipy
+numpy
+matplotlib
+opencv_python
+opencv-contrib-python
+tqdm
+Pillow==9.5.0
+h5py
+tensorboard
+labelme==3.16.7
+pyqt5==5.13.0
